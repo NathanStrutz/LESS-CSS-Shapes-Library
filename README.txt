@@ -4,4 +4,4 @@ This is a mixin library for LESS CSS. Import this shapes mixin library to your L
 
 LESS CSS gives this library the ability to let you customize each shape the way you want it, from size to color, sometimes more.
 
-See the example page at http://www.dopefly.com/LESS-CSS-Shapes-Library/
+See the example page at http://nathanstrutz.github.io/LESS-CSS-Shapes-Library/
